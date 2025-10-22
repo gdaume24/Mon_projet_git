@@ -1,0 +1,1 @@
+new line insert into fichier1.txt for master
